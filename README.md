@@ -32,4 +32,10 @@ In The English Version You Can See Two Folders:<br>
 <li><b>PHP Version:</b>Built Using Server-Side PHP Language,Uses AJAX To Submit Code To The Process File.</li>
 <li><b>HTML Version:</b>Built Using Client-Side JavaScript Language,And Can Be Used Directly Through The Browser Without The Need To Web Servers.</li>
 </ul>
+To Make The Life Easier,Inside Each Version There's A Folder Which Contains Custom Theme For The Editor,And Another Folder Which Has No Theme.
 </h3>
+<hr>
+<div dir="rtl">
+<h1 id="ar">محرر المعلوماتية السورية</h1>
+
+</div>
