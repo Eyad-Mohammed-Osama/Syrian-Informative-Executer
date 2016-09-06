@@ -11,7 +11,7 @@
 A Lightweight HTML,CSS,JavaScript Editor Which Can Be Used Directly From The Browser.<br>
 </h1>
 <hr>
-<h1>Features</h1>
+<h1>Features:</h1>
 <h3>
 Syrian Informative Executer Has Some Features:<br>
 <ul>
@@ -36,6 +36,22 @@ To Make The Life Easier,Inside Each Version There's A Folder Which Contains Cust
 </h3>
 <hr>
 <div dir="rtl">
-<h1 id="ar">محرر المعلوماتية السورية</h1>
-
+<h1 id="ar">
+محرر المعلوماتية السورية
+</h1>
+<h1>
+محرر لغات HTML,CSS,JavaScript صغير الحجم يمكن تشغيله مباشرة من خلال المتصفح.
+</h1>
+<hr>
+<h1>
+الميزات:
+</h1>
+<h3>
+لدى هذا المحرر بعض الميزات:<br>
+<ul>
+<li>إستخدمه سهل جداً بسبب واجهة المستخدم الواضحة.</li>
+<li>حجمه صغير,لأن كل شيء هنا هو مجرد شيفرات,و لا يوجد أي صور إطلاقاً</li>
+<li>عابر للمنصات,لضمان عمله بشكل جيد على جميع الأجهزة و المتصفحات./li>
+</ul>
+</h3>
 </div>
